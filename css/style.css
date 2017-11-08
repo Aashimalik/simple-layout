@@ -1,0 +1,17 @@
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+input.ng-valid {
+    border: 1px solid green;
+}
+
+.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab {
+    color: rgb(255,255,255);
+    background-color: rgb(63,81,181);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgb(63,81,181);
+    border-color: #2e6da4;
+}
